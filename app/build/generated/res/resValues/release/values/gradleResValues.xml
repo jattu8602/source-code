@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from default config. -->
+    <string name="appName" translatable="false">Daksh</string>
+    <!-- Value from default config. -->
+    <string name="assetStatements" translatable="false">[{ \"relation\": [\"delegate_permission/common.handle_all_urls\"],\"target\": {\"namespace\": \"web\", \"site\": \"https://www.dakshedu.in\"}}]</string>
+    <!-- Value from default config. -->
+    <color name="backgroundColor">#B60D0E</color>
+    <!-- Value from default config. -->
+    <color name="colorPrimary">#B60D0E</color>
+    <!-- Value from default config. -->
+    <bool name="enableNotification">false</bool>
+    <!-- Value from default config. -->
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <!-- Value from default config. -->
+    <string name="generatorApp" translatable="false">NEW APP</string>
+    <!-- Value from default config. -->
+    <string name="hostName" translatable="false">www.dakshedu.in</string>
+    <!-- Value from default config. -->
+    <string name="launchUrl" translatable="false">https://www.dakshedu.in/</string>
+    <!-- Value from default config. -->
+    <string name="launcherName" translatable="false">Daksh</string>
+    <!-- Value from default config. -->
+    <color name="navigationColor">#000000</color>
+    <!-- Value from default config. -->
+    <string name="providerAuthority" translatable="false">xyz.appmaker.cagvbl.fileprovider</string>
+    <!-- Value from default config. -->
+    <integer name="splashScreenFadeOutDuration">300</integer>
+    <!-- Value from default config. -->
+    <string name="webManifestUrl" translatable="false">https://www.dakshedu.in/manifest.json</string>
+
+</resources>

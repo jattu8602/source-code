@@ -1,0 +1,4 @@
+#Tue Jun 24 21:10:44 IST 2025
+base.0=/Users/jattu/Downloads/source-code/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

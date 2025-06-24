@@ -1,0 +1,26 @@
+{
+  "packageId": "xyz.appmaker.cagvbl",
+  "host": "www.dakshedu.in",
+  "name": "Daksh",
+  "launcherName": "Daksh",
+  "display": "standalone",
+  "themeColor": "#B60D0E",
+  "navigationColor": "#000000",
+  "backgroundColor": "#B60D0E",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://www.dakshedu.in/web-app-manifest-512x512.png",
+  "maskableIconUrl": "https://www.dakshedu.in/web-app-manifest-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "NEW APP",
+  "webManifestUrl": "https://www.dakshedu.in/manifest.json",
+  "fallbackType": "webview",
+  "appVersion": "1"
+}

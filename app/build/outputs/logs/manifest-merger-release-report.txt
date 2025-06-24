@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jattu/.gradle/caches/transforms-3/f2ef84d6503ca16211b434befffdb20b/transformed/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.2.0] /Users/jattu/.gradle/caches/transforms-3/713992467e80f2a56f0e9e031d2a9df2/transformed/browser-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jattu/.gradle/caches/transforms-3/341d6958d2f0e290786f8d0a981f0691/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jattu/.gradle/caches/transforms-3/e3302279dbd6ca96c535376af49acce3/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jattu/.gradle/caches/transforms-3/de245ed60ccdfcb63bdbaa6cad6147cb/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jattu/.gradle/caches/transforms-3/082e3130eb578077f1b088a7a8f88bae/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jattu/.gradle/caches/transforms-3/0160d05660db2a5cd6adde1e88b842bb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jattu/.gradle/caches/transforms-3/999b79846dfef3b51fb44b1c820ffd3a/transformed/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jattu/.gradle/caches/transforms-3/e908c38578f5e67dd7ddd27d5fb6fe36/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jattu/.gradle/caches/transforms-3/d1ac48aead317a6961ec5738901225f1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/22a86dfb0ccab03c216c2eeacca2ef22/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/43c3747445c34a116b6da7fee985690a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/66460498233c0b7b1b4e1a1b6443cd40/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jattu/.gradle/caches/transforms-3/f62ace0de3c86555801565252742ce87/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/c82758e60cb34d2e49abf27c6957a875/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jattu/.gradle/caches/transforms-3/9c56edd82051501ab68c214aa4a49e9b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jattu/.gradle/caches/transforms-3/9a8445aa44a4eb7d1c0f6906bd8b21e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jattu/.gradle/caches/transforms-3/fef70ae95aeb8eb884e83e6fdedec6e8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jattu/.gradle/caches/transforms-3/25a384d578269f1375ee2eb2e86b5c7e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jattu/.gradle/caches/transforms-3/7d75063948460930926f9f9a6a0071ac/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jattu/.gradle/caches/transforms-3/1e0c9719b4e2b9988de4fc412c9cfc9b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jattu/.gradle/caches/transforms-3/a160b32da0833e9b99e1cbe363358558/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jattu/.gradle/caches/transforms-3/22b8e4e131fca962597ebed8352bd681/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jattu/.gradle/caches/transforms-3/88b0bef1dbdc61dca9962ef2869bd2ec/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jattu/.gradle/caches/transforms-3/374a937863f03cd80af6bcc8daf15d5e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jattu/.gradle/caches/transforms-3/b2bad87b2592a3a2259f08c3018ddfa8/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+	package
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:23:5-34
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:1-122:12
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:22:11-69
+application
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:27:5-121:19
+MERGED from [androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jattu/.gradle/caches/transforms-3/9a8445aa44a4eb7d1c0f6906bd8b21e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jattu/.gradle/caches/transforms-3/9a8445aa44a4eb7d1c0f6906bd8b21e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:30:9-40
+	android:icon
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:32:9-54
+meta-data#asset_statements
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:34:9-36:58
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:35:13-44
+meta-data#web_manifest_url
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:39:13-41:58
+	android:value
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:41:17-55
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:40:17-48
+meta-data#twa_generator
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:44:9-46:52
+	android:value
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:45:13-41
+activity#com.google.androidbrowserhelper.trusted.LauncherActivity
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:48:9-91:20
+	android:label
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:48:19-90
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:50:13-51:53
+	android:value
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:51:17-50
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:50:24-85
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:53:13-55:58
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:55:17-55
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:54:17-83
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:57:13-59:61
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:59:17-58
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:58:17-87
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:61:13-62:54
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:62:17-52
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:61:24-95
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:64:13-65:60
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:65:17-58
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:64:24-104
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:67:13-68:71
+	android:value
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:67:24-105
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:70:13-71:60
+	android:value
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:71:17-58
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:70:24-97
+meta-data#android.app.shortcuts
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:73:13-97
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:73:61-94
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:73:24-60
+meta-data#android.support.customtabs.trusted.FALLBACK_STRATEGY
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:75:13-76:56
+	android:value
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:76:17-53
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:75:24-91
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:79:13-82:29
+action#android.intent.action.MAIN
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:81:17-77
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:81:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/hostName+data:scheme:https
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:84:13-90:29
+	android:autoVerify
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:84:28-53
+action#android.intent.action.VIEW
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:85:17-68
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:85:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:86:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:87:27-75
+data
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:88:17-89:54
+	android:host
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:89:21-52
+	android:scheme
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:88:23-45
+activity#com.google.androidbrowserhelper.trusted.FocusActivity
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:93:9-90
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:93:19-87
+activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:95:9-96:62
+	android:configChanges
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:96:13-59
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:95:19-97
+provider#androidx.core.content.FileProvider
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:98:9-106:20
+	android:grantUriPermissions
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:101:13-47
+	android:authorities
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:100:13-60
+	android:exported
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:102:13-37
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:99:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:103:13-105:53
+	android:resource
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:105:17-50
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:104:17-67
+service#com.google.androidbrowserhelper.trusted.DelegationService
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:110:13-55
+	android:exported
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:109:13-85
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:115:13-118:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:116:17-105
+	android:name
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:116:25-103
+uses-sdk
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jattu/.gradle/caches/transforms-3/f2ef84d6503ca16211b434befffdb20b/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jattu/.gradle/caches/transforms-3/f2ef84d6503ca16211b434befffdb20b/transformed/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.2.0] /Users/jattu/.gradle/caches/transforms-3/713992467e80f2a56f0e9e031d2a9df2/transformed/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/jattu/.gradle/caches/transforms-3/713992467e80f2a56f0e9e031d2a9df2/transformed/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jattu/.gradle/caches/transforms-3/341d6958d2f0e290786f8d0a981f0691/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jattu/.gradle/caches/transforms-3/341d6958d2f0e290786f8d0a981f0691/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jattu/.gradle/caches/transforms-3/e3302279dbd6ca96c535376af49acce3/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jattu/.gradle/caches/transforms-3/e3302279dbd6ca96c535376af49acce3/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jattu/.gradle/caches/transforms-3/de245ed60ccdfcb63bdbaa6cad6147cb/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jattu/.gradle/caches/transforms-3/de245ed60ccdfcb63bdbaa6cad6147cb/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jattu/.gradle/caches/transforms-3/082e3130eb578077f1b088a7a8f88bae/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jattu/.gradle/caches/transforms-3/082e3130eb578077f1b088a7a8f88bae/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jattu/.gradle/caches/transforms-3/0160d05660db2a5cd6adde1e88b842bb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jattu/.gradle/caches/transforms-3/0160d05660db2a5cd6adde1e88b842bb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jattu/.gradle/caches/transforms-3/999b79846dfef3b51fb44b1c820ffd3a/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jattu/.gradle/caches/transforms-3/999b79846dfef3b51fb44b1c820ffd3a/transformed/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jattu/.gradle/caches/transforms-3/e908c38578f5e67dd7ddd27d5fb6fe36/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jattu/.gradle/caches/transforms-3/e908c38578f5e67dd7ddd27d5fb6fe36/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jattu/.gradle/caches/transforms-3/d1ac48aead317a6961ec5738901225f1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jattu/.gradle/caches/transforms-3/d1ac48aead317a6961ec5738901225f1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/22a86dfb0ccab03c216c2eeacca2ef22/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/22a86dfb0ccab03c216c2eeacca2ef22/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/43c3747445c34a116b6da7fee985690a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/43c3747445c34a116b6da7fee985690a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/66460498233c0b7b1b4e1a1b6443cd40/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/66460498233c0b7b1b4e1a1b6443cd40/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jattu/.gradle/caches/transforms-3/f62ace0de3c86555801565252742ce87/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jattu/.gradle/caches/transforms-3/f62ace0de3c86555801565252742ce87/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/c82758e60cb34d2e49abf27c6957a875/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jattu/.gradle/caches/transforms-3/c82758e60cb34d2e49abf27c6957a875/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jattu/.gradle/caches/transforms-3/9c56edd82051501ab68c214aa4a49e9b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jattu/.gradle/caches/transforms-3/9c56edd82051501ab68c214aa4a49e9b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jattu/.gradle/caches/transforms-3/9a8445aa44a4eb7d1c0f6906bd8b21e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jattu/.gradle/caches/transforms-3/9a8445aa44a4eb7d1c0f6906bd8b21e3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jattu/.gradle/caches/transforms-3/fef70ae95aeb8eb884e83e6fdedec6e8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jattu/.gradle/caches/transforms-3/fef70ae95aeb8eb884e83e6fdedec6e8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jattu/.gradle/caches/transforms-3/25a384d578269f1375ee2eb2e86b5c7e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jattu/.gradle/caches/transforms-3/25a384d578269f1375ee2eb2e86b5c7e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jattu/.gradle/caches/transforms-3/7d75063948460930926f9f9a6a0071ac/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jattu/.gradle/caches/transforms-3/7d75063948460930926f9f9a6a0071ac/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jattu/.gradle/caches/transforms-3/1e0c9719b4e2b9988de4fc412c9cfc9b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jattu/.gradle/caches/transforms-3/1e0c9719b4e2b9988de4fc412c9cfc9b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jattu/.gradle/caches/transforms-3/a160b32da0833e9b99e1cbe363358558/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jattu/.gradle/caches/transforms-3/a160b32da0833e9b99e1cbe363358558/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jattu/.gradle/caches/transforms-3/22b8e4e131fca962597ebed8352bd681/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jattu/.gradle/caches/transforms-3/22b8e4e131fca962597ebed8352bd681/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jattu/.gradle/caches/transforms-3/88b0bef1dbdc61dca9962ef2869bd2ec/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jattu/.gradle/caches/transforms-3/88b0bef1dbdc61dca9962ef2869bd2ec/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jattu/.gradle/caches/transforms-3/374a937863f03cd80af6bcc8daf15d5e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jattu/.gradle/caches/transforms-3/374a937863f03cd80af6bcc8daf15d5e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jattu/.gradle/caches/transforms-3/b2bad87b2592a3a2259f08c3018ddfa8/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jattu/.gradle/caches/transforms-3/b2bad87b2592a3a2259f08c3018ddfa8/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:26:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:27:9-33:18
