@@ -388,7 +388,7 @@
       jars="/Users/jattu/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.0.0/c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1/concurrent-futures-1.0.0.jar"
       resolved="androidx.concurrent:concurrent-futures:1.0.0"/>
   <library
-      name="/Users/jattu/Downloads/source-code@@:app::release"
-      jars="/Users/jattu/Downloads/source-code/app/build/intermediates/app_classes/release/classes.jar"
+      name="/Users/jattu/Desktop/source-code@@:app::release"
+      jars="/Users/jattu/Desktop/source-code/app/build/intermediates/app_classes/release/classes.jar"
       resolved="::"/>
 </libraries>

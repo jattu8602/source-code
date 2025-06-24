@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jattu/Downloads/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml",
+            "outputFile": "/Users/jattu/Desktop/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ms/values-ms.xml",
             "map": [
                 {
                     "source": "/Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/res/values-ms/values-ms.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jattu/Downloads/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "/Users/jattu/Desktop/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
                     "source": "/Users/jattu/.gradle/caches/transforms-3/f2ef84d6503ca16211b434befffdb20b/transformed/appcompat-1.0.2/res/values-sr/values-sr.xml",

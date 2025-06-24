@@ -10,7 +10,7 @@
     <!-- Value from default config. -->
     <color name="backgroundColor">#B60D0E</color>
     <!-- Value from default config. -->
-    <color name="colorPrimary">#B60D0E</color>
+    <color name="colorPrimary">#72717f</color>
     <!-- Value from default config. -->
     <bool name="enableNotification">false</bool>
     <!-- Value from default config. -->

@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/jattu/Downloads/source-code/app"
+    dir="/Users/jattu/Desktop/source-code/app"
     name=":app"
     type="APP"
     maven="source-code:app:"

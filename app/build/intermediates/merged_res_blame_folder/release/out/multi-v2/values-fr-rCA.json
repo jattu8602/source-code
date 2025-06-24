@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jattu/Downloads/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/Users/jattu/Desktop/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/Users/jattu/.gradle/caches/transforms-3/713992467e80f2a56f0e9e031d2a9df2/transformed/browser-1.2.0/res/values-fr-rCA/values-fr-rCA.xml",

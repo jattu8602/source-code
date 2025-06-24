@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jattu/Downloads/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/jattu/Desktop/source-code/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/jattu/.gradle/caches/transforms-3/f2ef84d6503ca16211b434befffdb20b/transformed/appcompat-1.0.2/res/values/values.xml",
@@ -23,6 +23,25 @@
                     }
                 },
                 {
+                    "source": "/Users/jattu/Desktop/source-code/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "716",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1125"
+                    },
+                    "to": {
+                        "startLines": "1678",
+                        "startColumns": "4",
+                        "startOffsets": "112121",
+                        "endLines": "1684",
+                        "endColumns": "12",
+                        "endOffsets": "112530"
+                    }
+                },
+                {
                     "source": "/Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
@@ -37,6 +56,23 @@
                         "startOffsets": "19601,20522,20610,20707,21019",
                         "endColumns": "59,87,96,87,91",
                         "endOffsets": "19656,20605,20702,20790,21106"
+                    }
+                },
+                {
+                    "source": "/Users/jattu/Desktop/source-code/app/build/generated/res/resValues/release/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "14,10,12,26,30,6,8,16,18,20,22,24,28,32",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "683,506,596,1341,1571,154,257,772,885,995,1109,1233,1431,1673",
+                        "endColumns": "48,49,46,49,61,62,208,72,69,73,83,67,99,101",
+                        "endOffsets": "727,551,638,1386,1628,212,461,840,950,1064,1188,1296,1526,1770"
+                    },
+                    "to": {
+                        "startLines": "10,17,34,57,257,298,300,302,306,307,308,309,313,317",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "532,1029,2288,3688,16648,19538,19661,19938,20226,20296,20370,20454,20795,21111",
+                        "endColumns": "48,49,46,49,61,62,208,72,69,73,83,67,99,101",
+                        "endOffsets": "576,1074,2330,3733,16705,19596,19865,20006,20291,20365,20449,20517,20890,21208"
                     }
                 },
                 {
@@ -59,23 +95,6 @@
                     }
                 },
                 {
-                    "source": "/Users/jattu/Downloads/source-code/app/build/generated/res/resValues/release/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "14,10,12,26,30,6,8,16,18,20,22,24,28,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "683,506,596,1341,1571,154,257,772,885,995,1109,1233,1431,1673",
-                        "endColumns": "48,49,46,49,61,62,208,72,69,73,83,67,99,101",
-                        "endOffsets": "727,551,638,1386,1628,212,461,840,950,1064,1188,1296,1526,1770"
-                    },
-                    "to": {
-                        "startLines": "10,17,34,57,257,298,300,302,306,307,308,309,313,317",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "532,1029,2288,3688,16648,19538,19661,19938,20226,20296,20370,20454,20795,21111",
-                        "endColumns": "48,49,46,49,61,62,208,72,69,73,83,67,99,101",
-                        "endOffsets": "576,1074,2330,3733,16705,19596,19865,20006,20291,20365,20449,20517,20890,21208"
-                    }
-                },
-                {
                     "source": "/Users/jattu/.gradle/caches/transforms-3/22a86dfb0ccab03c216c2eeacca2ef22/transformed/coordinatorlayout-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -92,25 +111,6 @@
                         "endLines": "2,1790,2494,2583",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "161,121056,159021,164232"
-                    }
-                },
-                {
-                    "source": "/Users/jattu/Downloads/source-code/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "716",
-                        "endLines": "23",
-                        "endColumns": "12",
-                        "endOffsets": "1125"
-                    },
-                    "to": {
-                        "startLines": "1678",
-                        "startColumns": "4",
-                        "startOffsets": "112121",
-                        "endLines": "1684",
-                        "endColumns": "12",
-                        "endOffsets": "112530"
                     }
                 },
                 {

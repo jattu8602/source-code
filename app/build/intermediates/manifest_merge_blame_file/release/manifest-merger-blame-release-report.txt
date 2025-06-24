@@ -28,199 +28,199 @@
 28
 29    <uses-sdk
 30        android:minSdkVersion="19"
-30-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+30-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml
 31        android:targetSdkVersion="29" />
-31-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml
+31-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml
 32
 33    <queries>
 33-->[com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:26:5-34:15
 34        <intent>
 34-->[com.google.androidbrowserhelper:androidbrowserhelper:1.3.2] /Users/jattu/.gradle/caches/transforms-3/cc995415a0da80856e2d06a640ebee52/transformed/androidbrowserhelper-1.3.2/AndroidManifest.xml:27:9-33:18
 35            <action android:name="android.intent.action.VIEW" />
-35-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:85:17-68
-35-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:85:25-66
+35-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:85:17-68
+35-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:85:25-66
 36
 37            <category android:name="android.intent.category.BROWSABLE" />
-37-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:87:17-77
-37-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:87:27-75
+37-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:87:17-77
+37-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:87:27-75
 38
 39            <data android:scheme="https" />
-39-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:88:17-89:54
-39-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:88:23-45
+39-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:88:17-89:54
+39-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:88:23-45
 40        </intent>
 41    </queries>
 42
 43    <application
-43-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:27:5-121:19
+43-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:27:5-121:19
 44        android:allowBackup="true"
-44-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:28:9-35
+44-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:28:9-35
 45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 45-->[androidx.core:core:1.1.0] /Users/jattu/.gradle/caches/transforms-3/82fb7a2eb088cccd2bb414d0ca6cbada/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
 46        android:icon="@mipmap/ic_launcher"
-46-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:29:9-43
+46-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:29:9-43
 47        android:label="@string/appName"
-47-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:30:9-40
+47-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:30:9-40
 48        android:supportsRtl="true"
-48-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:31:9-35
+48-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:31:9-35
 49        android:theme="@style/Theme.LauncherActivity" >
-49-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:32:9-54
+49-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:32:9-54
 50        <meta-data
-50-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:34:9-36:58
+50-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:34:9-36:58
 51            android:name="asset_statements"
-51-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:35:13-44
+51-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:35:13-44
 52            android:resource="@string/assetStatements" />
-52-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:36:13-55
+52-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:36:13-55
 53        <meta-data
-53-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:39:13-41:58
+53-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:39:13-41:58
 54            android:name="web_manifest_url"
-54-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:40:17-48
+54-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:40:17-48
 55            android:value="@string/webManifestUrl" />
-55-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:41:17-55
+55-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:41:17-55
 56        <meta-data
-56-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:44:9-46:52
+56-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:44:9-46:52
 57            android:name="twa_generator"
-57-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:45:13-41
+57-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:45:13-41
 58            android:value="@string/generatorApp" />
-58-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:46:13-49
+58-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:46:13-49
 59
 60        <activity
-60-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:48:9-91:20
+60-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:48:9-91:20
 61            android:name="com.google.androidbrowserhelper.trusted.LauncherActivity"
-61-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:48:19-90
+61-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:48:19-90
 62            android:label="@string/launcherName" >
-62-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:49:13-49
+62-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:49:13-49
 63            <meta-data
-63-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:50:13-51:53
+63-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:50:13-51:53
 64                android:name="android.support.customtabs.trusted.DEFAULT_URL"
-64-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:50:24-85
+64-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:50:24-85
 65                android:value="@string/launchUrl" />
-65-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:51:17-50
+65-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:51:17-50
 66            <meta-data
-66-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:53:13-55:58
+66-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:53:13-55:58
 67                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
-67-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:54:17-83
+67-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:54:17-83
 68                android:resource="@color/colorPrimary" />
-68-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:55:17-55
+68-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:55:17-55
 69            <meta-data
-69-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:57:13-59:61
+69-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:57:13-59:61
 70                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
-70-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:58:17-87
+70-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:58:17-87
 71                android:resource="@color/navigationColor" />
-71-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:59:17-58
+71-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:59:17-58
 72            <meta-data
-72-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:61:13-62:54
+72-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:61:13-62:54
 73                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
-73-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:61:24-95
+73-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:61:24-95
 74                android:resource="@drawable/splash" />
-74-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:62:17-52
+74-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:62:17-52
 75            <meta-data
-75-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:64:13-65:60
+75-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:64:13-65:60
 76                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
-76-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:64:24-104
+76-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:64:24-104
 77                android:resource="@color/backgroundColor" />
-77-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:65:17-58
+77-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:65:17-58
 78            <meta-data
-78-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:67:13-68:71
+78-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:67:13-68:71
 79                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
-79-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:67:24-105
+79-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:67:24-105
 80                android:value="@integer/splashScreenFadeOutDuration" />
-80-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:68:17-69
+80-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:68:17-69
 81            <meta-data
-81-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:70:13-71:60
+81-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:70:13-71:60
 82                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
-82-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:70:24-97
+82-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:70:24-97
 83                android:value="@string/providerAuthority" />
-83-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:71:17-58
+83-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:71:17-58
 84            <meta-data
-84-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:73:13-97
+84-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:73:13-97
 85                android:name="android.app.shortcuts"
-85-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:73:24-60
+85-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:73:24-60
 86                android:resource="@xml/shortcuts" />
-86-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:73:61-94
+86-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:73:61-94
 87            <meta-data
-87-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:75:13-76:56
+87-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:75:13-76:56
 88                android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
-88-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:75:24-91
+88-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:75:24-91
 89                android:value="@string/fallbackType" />
-89-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:76:17-53
+89-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:76:17-53
 90
 91            <intent-filter>
-91-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:79:13-82:29
+91-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:79:13-82:29
 92                <action android:name="android.intent.action.MAIN" />
-92-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:80:17-69
-92-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:80:25-66
+92-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:80:17-69
+92-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:80:25-66
 93
 94                <category android:name="android.intent.category.LAUNCHER" />
-94-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:81:17-77
-94-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:81:27-74
+94-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:81:17-77
+94-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:81:27-74
 95            </intent-filter>
 96            <intent-filter android:autoVerify="true" >
-96-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:84:13-90:29
-96-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:84:28-53
+96-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:84:13-90:29
+96-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:84:28-53
 97                <action android:name="android.intent.action.VIEW" />
-97-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:85:17-68
-97-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:85:25-66
+97-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:85:17-68
+97-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:85:25-66
 98
 99                <category android:name="android.intent.category.DEFAULT" />
-99-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:86:17-76
-99-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:86:27-73
+99-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:86:17-76
+99-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:86:27-73
 100                <category android:name="android.intent.category.BROWSABLE" />
-100-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:87:17-77
-100-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:87:27-75
+100-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:87:17-77
+100-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:87:27-75
 101
 102                <data
-102-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:88:17-89:54
+102-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:88:17-89:54
 103                    android:host="@string/hostName"
-103-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:89:21-52
+103-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:89:21-52
 104                    android:scheme="https" />
-104-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:88:23-45
+104-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:88:23-45
 105            </intent-filter>
 106        </activity>
 107        <activity android:name="com.google.androidbrowserhelper.trusted.FocusActivity" />
-107-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:93:9-90
-107-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:93:19-87
+107-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:93:9-90
+107-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:93:19-87
 108        <activity
-108-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:95:9-96:62
+108-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:95:9-96:62
 109            android:name="com.google.androidbrowserhelper.trusted.WebViewFallbackActivity"
-109-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:95:19-97
+109-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:95:19-97
 110            android:configChanges="orientation|screenSize" />
-110-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:96:13-59
+110-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:96:13-59
 111
 112        <provider
-112-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:98:9-106:20
+112-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:98:9-106:20
 113            android:name="androidx.core.content.FileProvider"
-113-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:99:13-62
+113-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:99:13-62
 114            android:authorities="@string/providerAuthority"
-114-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:100:13-60
+114-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:100:13-60
 115            android:exported="false"
-115-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:102:13-37
+115-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:102:13-37
 116            android:grantUriPermissions="true" >
-116-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:101:13-47
+116-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:101:13-47
 117            <meta-data
-117-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:103:13-105:53
+117-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:103:13-105:53
 118                android:name="android.support.FILE_PROVIDER_PATHS"
-118-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:104:17-67
+118-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:104:17-67
 119                android:resource="@xml/filepaths" />
-119-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:105:17-50
+119-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:105:17-50
 120        </provider>
 121
 122        <service
-122-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:108:9-119:20
+122-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:108:9-119:20
 123            android:name="com.google.androidbrowserhelper.trusted.DelegationService"
-123-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:109:13-85
+123-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:109:13-85
 124            android:enabled="@bool/enableNotification"
-124-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:110:13-55
+124-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:110:13-55
 125            android:exported="@bool/enableNotification" >
-125-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:111:13-56
+125-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:111:13-56
 126            <intent-filter>
-126-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:115:13-118:29
+126-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:115:13-118:29
 127                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
-127-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:116:17-105
-127-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:116:25-103
+127-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:116:17-105
+127-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:116:25-103
 128
 129                <category android:name="android.intent.category.DEFAULT" />
-129-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:86:17-76
-129-->/Users/jattu/Downloads/source-code/app/src/main/AndroidManifest.xml:86:27-73
+129-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:86:17-76
+129-->/Users/jattu/Desktop/source-code/app/src/main/AndroidManifest.xml:86:27-73
 130            </intent-filter>
 131        </service>
 132    </application>

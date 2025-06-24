@@ -51,7 +51,7 @@
     <resValue
         type="color"
         name="colorPrimary"
-        value="#B60D0E" />
+        value="#72717f" />
     <resValue
         type="bool"
         name="enableNotification"

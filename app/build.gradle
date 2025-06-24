@@ -18,13 +18,19 @@ import groovy.xml.MarkupBuilder
 
 apply plugin: 'com.android.application'
 
+def keystorePropertiesFile = rootProject.file("store.txt")
+def keystoreProperties = new Properties()
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
 def twaManifest = [
     applicationId: 'xyz.appmaker.cagvbl',
     hostName: 'www.dakshedu.in', // The domain being opened in the TWA.
     launchUrl: '/', // The start path for the TWA. Must be relative to the domain.
     name: 'Daksh', // The application name.
     launcherName: 'Daksh', // The name shown on the Android Launcher.
-    themeColor: '#B60D0E', // The color used for the status bar.
+    themeColor: '#72717f', // The color used for the status bar.
     navigationColor: '#000000', // The color used for the navigation bar.
     backgroundColor: '#B60D0E', // The color used for the splash screen background.
     enableNotifications: false, // Set to true to enable notification delegation.
@@ -119,10 +125,12 @@ android {
 
     signingConfigs {
         release {
-            storeFile file('../android.keystore')
-            storePassword System.getenv("RELEASE_STORE_PASSWORD")
-            keyAlias 'android'
-            keyPassword System.getenv("RELEASE_KEY_PASSWORD")
+            if (keystorePropertiesFile.exists()) {
+                storeFile rootProject.file(keystoreProperties['RELEASE_STORE_FILE'])
+                storePassword keystoreProperties['RELEASE_STORE_PASSWORD']
+                keyAlias keystoreProperties['RELEASE_KEY_ALIAS']
+                keyPassword keystoreProperties['RELEASE_KEY_PASSWORD']
+            }
         }
     }
 
