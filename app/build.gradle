@@ -25,7 +25,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 def twaManifest = [
-    applicationId: 'xyz.appmaker.cagvbl',
+    applicationId: 'in.dakshedu.app',
     hostName: 'www.dakshedu.in', // The domain being opened in the TWA.
     launchUrl: '/', // The start path for the TWA. Must be relative to the domain.
     name: 'Daksh', // The application name.
@@ -51,7 +51,7 @@ def twaManifest = [
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "xyz.appmaker.cagvbl"
+        applicationId "in.dakshedu.app"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
