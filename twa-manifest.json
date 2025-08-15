@@ -22,5 +22,5 @@
   "generatorApp": "NEW APP",
   "webManifestUrl": "https://www.dakshedu.in/manifest.json",
   "fallbackType": "webview",
-  "appVersion": "1"
+  "appVersion": "1.1"
 }
