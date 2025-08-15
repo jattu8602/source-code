@@ -22,7 +22,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="xyz.appmaker.cagvbl">
 
-    
+
 
     <application
         android:allowBackup="true"
@@ -35,18 +35,19 @@
             android:name="asset_statements"
             android:resource="@string/assetStatements" />
 
-        
+
             <meta-data
                 android:name="web_manifest_url"
                 android:value="@string/webManifestUrl" />
-        
+
 
         <meta-data
             android:name="twa_generator"
             android:value="@string/generatorApp" />
 
         <activity android:name="com.google.androidbrowserhelper.trusted.LauncherActivity"
-            android:label="@string/launcherName">
+            android:label="@string/launcherName"
+            android:exported="true">
             <meta-data android:name="android.support.customtabs.trusted.DEFAULT_URL"
                 android:value="@string/launchUrl" />
 
@@ -75,7 +76,7 @@
             <meta-data android:name="android.support.customtabs.trusted.FALLBACK_STRATEGY"
                 android:value="@string/fallbackType" />
 
-            
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -110,7 +111,7 @@
             android:enabled="@bool/enableNotification"
             android:exported="@bool/enableNotification">
 
-            
+
 
             <intent-filter>
                 <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE"/>
