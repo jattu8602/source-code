@@ -16,8 +16,8 @@
     "path": "./android.keystore",
     "alias": "android"
   },
-  "appVersionName": "1",
-  "appVersionCode": 1,
+  "appVersionName": "1.1",
+  "appVersionCode": 3,
   "shortcuts": [],
   "generatorApp": "NEW APP",
   "webManifestUrl": "https://www.dakshedu.in/manifest.json",
